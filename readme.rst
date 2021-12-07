@@ -1,8 +1,9 @@
 ###################
 Ini adalah Project SIG Lahan Pertanian Dan Komoditas bagian Admin WEB
 ###################
-
+<br>
 LIST ADMIN WEB (*termasuk yang kurang) :
+<br>
 forget password
 Konfirmasi Validasi Lahan dan Komoditas
 CRUD Input Data Statistik. ada 4 yaitu Produksi, Provitas, Luas Panen, dan Luas Tambah Tanam. (*sudah selesai)
